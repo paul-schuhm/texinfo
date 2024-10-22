@@ -1,0 +1,4 @@
+@numchapentry{First Chapter}{1}{First Chapter}{1}
+@numsecentry{First Section}{1.1}{First Section}{1}
+@numsecentry{Second Section}{1.2}{Second Section}{1}
+@unnchapentry{Index}{10002}{Index}{2}

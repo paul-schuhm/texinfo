@@ -1,6 +1,6 @@
-# "Hello world" TexInfo
+# Le langage pour écrire de la documentation technique TexInfo
 
-- ["Hello world" TexInfo](#hello-world-texinfo)
+- [Le langage pour écrire de la documentation technique TexInfo](#le-langage-pour-écrire-de-la-documentation-technique-texinfo)
   - [TexInfo](#texinfo)
   - [Installer](#installer)
   - [Créer un fichier TexInfo](#créer-un-fichier-texinfo)
